@@ -1,0 +1,55 @@
+/* NameDescription.css */
+
+.hi{
+  padding: 0;
+  justify-content: center;
+  padding-left: 60px; /* Centers content horizontally */
+  align-items: center;    /* Centers content vertically */
+  height: 100%;    
+  font-size: 3rem;     /* Adjust the font size as needed */
+  font-weight: bold;
+  margin-bottom: -60px;       /* Full height of the container */
+}
+.name{
+  padding: 0;
+  justify-content: center;
+  padding-left: 60px; /* Centers content horizontally */
+  align-items: center;    /* Centers content vertically */
+  height: 100%;    
+  font-size: 50px;
+  font-weight:lighter;   /* Adjust the font size as needed */
+  
+  margin-top: 0px;       /* Full height of the container */
+}
+.description-container{
+  padding: 0;
+  justify-content: center;
+  padding-left: 68px; /* Centers content horizontally */
+  align-items: center;    /* Centers content vertically */
+  height: 100%;    
+  font-size: 25px;
+  font-weight:lighter;   /* Adjust the font size as needed */
+  margin-top: -20px;  
+
+
+}
+
+
+.name-description-container {
+  padding: 0;
+  justify-content: center;
+  padding-left: 550px; /* Centers content horizontally */
+  align-items: center;    /* Centers content vertically */
+  height: 100%;    
+  
+  margin-bottom: 10px;      /* Full height of the container */
+}
+
+.centered-text {
+  text-align: center;  
+  font-size: 10px;  
+}
+
+
+
+
